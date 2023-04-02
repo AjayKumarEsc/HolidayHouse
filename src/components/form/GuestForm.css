@@ -1,0 +1,69 @@
+.btn-primary {
+  --bs-btn-bg: #21324b;
+  --bs-btn-hover-bg: #0c18237f;
+ 
+}
+/* .btn-primary:hover {
+  font-size: 16.5px;
+} */
+.btn-secondary {
+  --bs-btn-bg: #0c1823;
+}
+/* .btn-secondary:hover {
+  font-size: 16.5px;
+} */
+
+.text-danger {
+  color: #f9ff00;
+  font-family: initial;
+}
+.row>* {
+  width: 40%;
+}
+.modal-content {
+  background-color: rgba(0,0,0,0.5);
+}
+.text-success {
+  color: white !important;
+  font-family: emoji;
+}
+.btn-close {
+  background-color: white;
+  border-radius: 2px;
+  border-radius: 50%;
+}
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  border-radius: 5px;
+  border-color: #ccc;
+  padding: 10px;
+  /* width: 60 %; */
+  margin: auto;
+}
+
+.label {
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: white;
+  font-family: emoji;
+}
+
+.datetime {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.form-btn {
+  margin-top: 5px;
+  background-color: black;
+  border-color: #007bff;
+  border-radius: 2px;
+}
+
+.form-btn:hover {
+  background-color: #0d2dca;
+  border-color: #0062cc;
+}

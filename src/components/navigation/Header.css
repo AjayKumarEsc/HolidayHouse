@@ -1,0 +1,27 @@
+.navbar {
+  background-color: rgba(0, 0, 0, 0.225) !important;
+  border-bottom: 1px solid #ccc;
+  box-shadow: 0 0 5px rgba(1, 2, 55, 0.052);
+}
+.navbar-toggler-icon { 
+  background-color: white;
+}
+.logo {
+  border-radius: 19px;
+}
+.navLink {
+  color : white !important;
+}
+.brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navLink {
+  color: #555;
+  font-weight: bold;
+}
+
+.navLink:hover {
+  color: #000;
+}

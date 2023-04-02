@@ -1,0 +1,37 @@
+body {
+  background-image:linear-gradient(rgba(4, 9, 30, 0.438),rgba(4, 9, 30, 0.652)), url(bg-image.jpg);
+  background-position:center;
+  background-size: cover;
+}
+
+.booking-card {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+}
+
+.booking-card-title {
+  
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-decoration: underline;
+  color: blueviolet;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.booking-card-footer {
+  background-color: #f8f9fa;
+  border-top: 1px solid #ccc;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(33, 50, 75, 0.581) !important;
+}
+
+.booking-card-button {
+  padding: 10px;
+  margin: 0;
+}
