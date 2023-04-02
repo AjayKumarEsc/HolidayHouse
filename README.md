@@ -4,23 +4,17 @@ Hotel Room Management Admin App ,Created a complete admin-facing solution for th
 # Deployed Using Vercel
 https://holidayhouse.vercel.app/
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Prerequisite
-* You must have node.js installed in your system.
-* Use the package manager to install applications prerequisite node_modules for both backend and frontend
----------------------
-npm i
----------------------
-
-# Available Scripts
- In the project directory, you can run:
- ______________________________________
- npm start
- ______________________________________
-
+* Install node.js in your system
+* Required Code editor like VS code
+# How to Run this app:
+* Download the Repositories zip file 
+* Extract it ,then open it in VS code
+* Open Terminal/command of VS code
+   * run this command:
+     * npm i 
+     * npm start
+    
 Open http://localhost:3000 to view it in your browser.
 The page will reload when you make changes.
 You may also see any lint errors in the console.
