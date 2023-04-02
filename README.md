@@ -8,19 +8,18 @@ https://holidayhouse.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Prerequisite
+# Prerequisite
 * You must have node.js installed in your system.
 * Use the package manager to install applications prerequisite node_modules for both backend and frontend
 ---------------------
 npm i
 ---------------------
 
-## Available Scripts
-
-In the project directory, you can run:
----------------------
-npm start
----------------------
+# Available Scripts
+ In the project directory, you can run:
+ ______________________________________
+ npm start
+ ______________________________________
 
 Open http://localhost:3000 to view it in your browser.
 The page will reload when you make changes.
